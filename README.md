@@ -11,5 +11,6 @@ Guo-Zhao Liao, Xiao-Feng Gong, Wei Liu, and Hing Cheung So, "Target localization
 This repository contains the MATLAB implementation of the proposed target localization method using **Coupled Canonical Polyadic Decomposition (C-CPD)** based on **Joint Eigenvalue Decomposition (J-EVD)** for multistatic MIMO radar with coprime planar arrays.  
 
 ## Requirements  
-- MATLAB (R2021a or later recommended)  
+- MATLAB (R2021a or later recommended)
+- Parallel Computing Toolbox (for parallel computing operations)  
 - Tensorlab toolbox (for tensor decomposition operations)  
